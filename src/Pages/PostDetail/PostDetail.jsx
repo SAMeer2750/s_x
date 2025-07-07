@@ -55,9 +55,9 @@ const PostDetail = ({ contract, accountAddress }) => {
                 commentData,
                 {
                     headers: {
-                        pinata_api_key: "b3909c367f38816509ea",
+                        pinata_api_key: "04ff210a68f0542f4224",
                         pinata_secret_api_key:
-                            "d7e034abe6d3da97a2267aa7065ab20d513f8dc0e1015cdd7c9ed91c99088231",
+                            "11f899a37a9914eb78d1f445ca4ecabf362fc6e8586b0f5438c0cc21d0311038",
                     },
                 }
             );
